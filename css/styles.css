@@ -41,4 +41,6 @@ input {
 #input-div img {
     position: absolute;
     right: 2px;
+    width: 16px;
+    height: 16px;
 }
